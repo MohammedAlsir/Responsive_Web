@@ -282,23 +282,18 @@ header .overlay .card{
     background-color: #FFF;
     padding: 20px;
     line-height: 2;
-
 }
 .info .info-content >div:not(:first-of-type){
     display: none ;
 }
 
 @media (max-width: 767px) {
-    
     .info ul li {
-        display: block;
-        
+        display: block;   
     }
     .info ul li:last-of-type{
         margin-bottom: 10px;
-
     }
-
 }
 /* End   Info */
 
